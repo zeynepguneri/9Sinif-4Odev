@@ -1,6 +1,6 @@
 # 9Sinif-4Odev
 ## Çapa Fen Lisesi 9.Sınıf Fizik Dersi 4.Ödevi
-
+## ÖDEV BİTTİ
 ## Ödevin bitiş tarihi 29 Nisan Çarşamba saat 23.00'dür. 
 ## Yönergeler
 1) Bu ödevi kendi Github hesabınıza forklayın. 
